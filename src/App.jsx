@@ -1,7 +1,9 @@
+import Layout from "./layout/Layout"
+
 function App() {
   return (
     <>
-      <div className="text-white bg-yellow-400">hello</div>
+      <Layout />
     </>
   )
 }
