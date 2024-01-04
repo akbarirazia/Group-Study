@@ -4,10 +4,11 @@ import SingleGroup from "./SingleGroup"
 function FullStack() {
   return (
     <div>
-      <p className="mb-3">
-        <strong>Full Stack Engineering Path</strong>
+      <p className="my-3 flex justify-between">
+        <strong className="block">Full Stack Engineering Path</strong>
+        <strong className="block">48</strong>
       </p>
-      <div className="groups grid grid-cols-4 gap-2 flex-wrap">
+      <div className="groups grid grid-cols-4 gap-4 flex-wrap">
         <SingleGroup />
         <SingleGroup />
         <SingleGroup />
