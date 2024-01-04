@@ -1,7 +1,11 @@
 import React from "react"
 import SingleGroup from "./SingleGroup"
 
-function FullStack() {
+function FullStack({ groupData }) {
+  const singleGroups = groupData.map((group, index) => {
+    console.log(group)
+    return <SingleGroup key={index} data={group} />
+  })
   return (
     <div>
       <p className="my-3 flex justify-between">
@@ -9,10 +13,7 @@ function FullStack() {
         <strong className="block">48</strong>
       </p>
       <div className="groups grid lg:grid-cols-4 grid-cols-2 gap-4 flex-wrap">
-        <SingleGroup />
-        <SingleGroup />
-        <SingleGroup />
-        <SingleGroup />
+        {singleGroups}
       </div>
     </div>
   )
