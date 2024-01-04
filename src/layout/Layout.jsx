@@ -3,11 +3,12 @@ import MemberList from "../components/MemberList"
 import InputBar from "../components/InputBar"
 import FullStack from "../components/FullStack"
 import DataScience from "../components/DataScience"
+import data from "../Buffer/Data.json"
 
-function Layout() {
+function User() {
   return (
     <div className="p-8 flex gap-10">
-      <MemberList />
+      <MemberList data={data} />
       <div className="w-3/4">
         <InputBar />
         <FullStack />
@@ -18,4 +19,4 @@ function Layout() {
   )
 }
 
-export default Layout
+export default User

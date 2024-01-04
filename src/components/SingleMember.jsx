@@ -1,14 +1,13 @@
 import React from "react"
+import Avatar from "./Avatar"
 
 function SingleMember({ name, cohort }) {
   return (
-    <div className="flex gap-2 justify-between items-center">
-      <div className="rounded-full h-12 flex justify-center bg-teal-800 text-white items-center w-12 ms-1">
-        {/* first letter */}R
-      </div>
-      <div className=" flex flex-col">
-        <p className="font-bold p-0">Razia Akbari</p>
-        <small className="">Full-Stack Engineering</small>
+    <div className="flex gap-2  items-center">
+      <Avatar firstLetter={name.charAt(0)} />
+      <div className="flex flex-col">
+        <p className="font-bold p-0 ">{name}</p>
+        <small className="">{cohort}</small>
       </div>
     </div>
   )
