@@ -11,7 +11,7 @@ function InputBar() {
           <input
             type="text"
             name="group-num"
-            className="w-24 border-2 rounded-md"
+            className="w-24 border-2 rounded-md px-2"
           />
         </div>
         <div>
@@ -21,7 +21,7 @@ function InputBar() {
           <input
             type="text"
             name="group-mem"
-            className="w-24 border-2 rounded-md"
+            className="w-24 border-2 rounded-md px-2"
           />
         </div>
       </div>
