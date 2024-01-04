@@ -1,9 +1,9 @@
-import Layout from "./layout/Layout"
+import User from "./layout/Layout"
 
 function App() {
   return (
     <>
-      <Layout />
+      <User />
     </>
   )
 }

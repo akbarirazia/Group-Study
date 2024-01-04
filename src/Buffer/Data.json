@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Abeda Danish",
+    "days_active": 5,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "negina.ataee5@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Aisha Ahrar",
+    "days_active": 6,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "recent_content_quiz_score": 70,
+    "email": "shokria.abrahemi2015@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Alis Rasuly",
+    "days_active": 9,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 4,
+    "email": "najywahedi@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Aqsa Azizi",
+    "days_active": 6,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 4,
+    "recent_content_quiz_score": 100,
+    "email": "beheshtaazizi989768@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Arezo Mirzaie",
+    "days_active": 27,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 9,
+    "recent_content_quiz_score": 85.71429,
+    "email": "sadnik.sarwari786@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Beheshta Azizi",
+    "days_active": 10,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 9,
+    "email": "hlangari12@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Bi bi Najia Fakhri",
+    "days_active": 11,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 8,
+    "email": "shukriarahimi69@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Ali Mousavi",
+    "days_active": 8,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 23,
+    "email": "mnizhadali@gmail.com"
+  },
+  {
+    "name": "Bi bi zahra hajizadah",
+    "days_active": 4,
+    "quiz_average": 100,
+    "recent_course_content_type": "path",
+    "completed_modules": 4,
+    "email": "muhaddesanoori@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Bi bi zahra hajizadah",
+    "days_active": 11,
+    "quiz_average": 97.22222,
+    "recent_course_content_type": "path",
+    "completed_modules": 4,
+    "email": "harirazadran@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Bibi Hadia",
+    "days_active": 12,
+    "quiz_average": 97.14286,
+    "recent_course_content_type": "path",
+    "completed_modules": 5,
+    "email": "faezahahmadi96@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Bibi Hajrah Amiri",
+    "days_active": 10,
+    "quiz_average": 95.99359,
+    "recent_course_content_type": "path",
+    "completed_modules": 10,
+    "email": "fatimaebrahimi2024@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Ellaha Afzali",
+    "days_active": 14,
+    "quiz_average": 95.47619,
+    "recent_course_content_type": "path",
+    "completed_modules": 13,
+    "email": "muneeraman56@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Faezah Ahmadi",
+    "days_active": 11,
+    "quiz_average": 95,
+    "recent_course_content_type": "path",
+    "completed_modules": 11,
+    "email": "nargis2017sadat@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Fakhria Mohammadi",
+    "days_active": 15,
+    "quiz_average": 95,
+    "recent_course_content_type": "path",
+    "completed_modules": 23,
+    "recent_content_quiz_score": 100,
+    "email": "shahira.sadat1@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Farzana Bayani",
+    "days_active": 11,
+    "quiz_average": 95,
+    "recent_course_content_type": "path",
+    "completed_modules": 9,
+    "email": "mahbobaahmadi04@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Fatema Ebrahimi",
+    "days_active": 8,
+    "quiz_average": 95,
+    "recent_course_content_type": "path",
+    "completed_modules": 7,
+    "recent_content_quiz_score": 100,
+    "email": "alis.rasuly@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Freshta Naim",
+    "days_active": 13,
+    "quiz_average": 92.29701,
+    "recent_course_content_type": "path",
+    "completed_modules": 4,
+    "email": "zabeenasherzoie@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Gita Mohammadi",
+    "days_active": 4,
+    "quiz_average": 91.98718,
+    "recent_course_content_type": "path",
+    "completed_modules": 4,
+    "email": "shokria.muhsini@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Gita Rahmany",
+    "days_active": 3,
+    "quiz_average": 91.666664,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "sodabarahimiit@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Hadia jan karimi",
+    "days_active": 10,
+    "quiz_average": 89.45742,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "sadaatmanizha@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Hafsa Langari",
+    "days_active": 9,
+    "quiz_average": 86.666664,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "hanifayousufi1@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Hanifa Yousufi",
+    "days_active": 6,
+    "quiz_average": 75,
+    "recent_course_content_type": "path",
+    "completed_modules": 5,
+    "email": "masheedsafa150@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Harira Zadran",
+    "days_active": 4,
+    "quiz_average": 70,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "rahimizakia5@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Hasina Nasiry",
+    "days_active": 7,
+    "quiz_average": 70,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "khateramirzaii@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 0,
+    "email": "kmarkiv@gmail.com"
+  },
+  {
+    "name": "Hela Rahimi",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 1,
+    "email": "ahmadian.suraya@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Hogai Mohmand",
+    "days_active": 13,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "akbariharis14@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Humaira shirzad",
+    "days_active": 3,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "akbarisafia185@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Huriya Naseri",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "saharsaba.amiri123@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Leo Nikitas Holtz",
+    "days_active": 2,
+    "recent_course_content_type": "path",
+    "completed_modules": 1,
+    "email": "lholtz@ifc.org"
+  },
+  {
+    "name": "Husna Rasekh",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "mirzaiinilufar@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Khadija Fawad",
+    "days_active": 6,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "tamanahasanzada17@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Khatera Akbari",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "somaya.afghan10@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Khatera Mirzaii",
+    "days_active": 5,
+    "recent_course_content_type": "path",
+    "completed_modules": 0,
+    "email": "malal.2001@yahoo.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Latifa Rasouli",
+    "days_active": 5,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "hoormohammad2000@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Madina Langaryan",
+    "days_active": 2,
+    "recent_course_content_type": "path",
+    "completed_modules": 4,
+    "email": "rabiamalkhi989@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Mahboba Ahmadi",
+    "days_active": 3,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "aishaharar100@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Mahbooba Mohammadi",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "hastisayed@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Hamayoon Behmanush",
+    "days_active": 6,
+    "recent_course_content_type": "path",
+    "completed_modules": 0,
+    "email": "h.behmanush1989@gmail.com"
+  },
+  {
+    "name": "Mujtaba Jawed",
+    "days_active": 3,
+    "recent_course_content_type": "course",
+    "completed_modules": 1,
+    "email": "mujtabajawed786@gmail.com"
+  },
+  {
+    "name": "Freshta Ahtary",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "freshtaakhtary5@gmail.com"
+  },
+  {
+    "name": "Faqeed Ahmad Sahnosh",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "sahnosh1388@gmail.com"
+  },
+  {
+    "name": "Ismail Hafizi",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "mhafizi@ifc.org"
+  },
+  {
+    "name": "Malalai Stanakzai",
+    "days_active": 6,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "abidaadanish@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Manizha",
+    "days_active": 3,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "muzhdaesmati002@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Mitra Akrami",
+    "days_active": 3,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "1998sharifamahmoodi@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Muhaddesa Noori",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 1,
+    "email": "naziajamal2018@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Munaza Hazrati",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "arzuafghan786@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Muneera Aman",
+    "days_active": 2,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "daudzaisadia@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Mursal Ahmadi",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 1,
+    "email": "raziashahrestani12@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Muzhda Esmati",
+    "days_active": 4,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "freshta.naim@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Najma Wahedi",
+    "days_active": 3,
+    "completed_modules": 0,
+    "email": "langaryanmadina7@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Nargis Nayeel Sadaat",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "mitraakrami864@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Nazia Jamal",
+    "days_active": 6,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "gitamehry@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Negina Ataee",
+    "days_active": 4,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "armaghankhwaja@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Nilufar Mirzaii",
+    "days_active": 8,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "hadiajankari@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Omulbanin Nadery",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "surayaanwar17@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Parwana Sanaie",
+    "days_active": 6,
+    "completed_modules": 0,
+    "email": "khatera.akbari12@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Rabia Malkhi",
+    "days_active": 4,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "latifarasouli4@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Razeia Shahristani",
+    "days_active": 3,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "draqsaazizi@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Razia Akbari",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "hajrahroya2003@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Sadaf Sarwari",
+    "days_active": 4,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "tahirasultani100@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Sadya daudzai",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "rasekhhusna@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Safa Masheed",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "shakibamosamam7@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Safia Akbari",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 1,
+    "email": "zuh.ahmadi@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Sahar Saba Amiri",
+    "days_active": 3,
+    "recent_course_content_type": "path",
+    "completed_modules": 1,
+    "email": "fakhriamohammadi346@gmail.com",
+    "groups": "Data Science"
+  },
+  {
+    "name": "Sahra Sarwari",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "shahnafawad@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Shahira Sadat",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "zarin.rahmani18@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Shakiba Rahimi",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "nfakhri04@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Sharifa Mahmoodi",
+    "days_active": 9,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "helarahimi578@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Shokria Abrahemi",
+    "days_active": 2,
+    "recent_course_content_type": "path",
+    "completed_modules": 3,
+    "email": "sahra.sarwari123@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Shokria Muhsini",
+    "days_active": 5,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "parwanassanaie987@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Shukria Rahimi",
+    "days_active": 1,
+    "completed_modules": 0,
+    "email": "gitarahmany1234@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Sodaba",
+    "days_active": 6,
+    "recent_course_content_type": "path",
+    "completed_modules": 6,
+    "email": "hadiakhalili.2023@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Sosan Akrami",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 0,
+    "email": "susanakramii@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Sumayah Karimi",
+    "days_active": 2,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "bibizahrasadaf786@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Suraya Ahmadian",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "zahrasadaf129@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Suraya anwar",
+    "days_active": 3,
+    "completed_modules": 0,
+    "email": "gulsom.nasiry5@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Tahira",
+    "days_active": 5,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "baninnadery22@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Tamana hassan zada",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "elnaz.afzali123@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zabeena Sherzoie",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "zakiajamal984@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zahra Hussainzada",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "zohalahmadi71@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zakia Jamal",
+    "days_active": 1,
+    "completed_modules": 0,
+    "email": "hazratimunaza@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zakia Rahimi",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "mahbobamohammadi0@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zarin Rahmani",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 7,
+    "email": "mursal.adel123@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zohal Ahmadi",
+    "days_active": 0,
+    "completed_modules": 0,
+    "email": "farzane.bayani961@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zohra Khwaja",
+    "days_active": 1,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "zahrahussainzada86@gmail.com",
+    "groups": "Full Stack Development"
+  },
+  {
+    "name": "Zuhal Ahmadi",
+    "days_active": 3,
+    "recent_course_content_type": "path",
+    "completed_modules": 2,
+    "email": "humairashirzad0@gmail.com",
+    "groups": "Full Stack Development"
+  }
+]
