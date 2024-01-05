@@ -17,9 +17,8 @@ function User() {
   }
 
   return (
-    <div className="p-8 flex gap-10">
-      <MemberList data={data} />
-      <div className="w-3/4">
+    <div className="p-8 lg:flex gap-10  ">
+      <div className="w-full lg:w-3/4 lg:order-2 sm:order-1 sm:w-full">
         <InputBar getData={getData} getData_2={getData_2} />
         {generatedGroups.length == 0 && generatedGroups.length == 0 ? (
           <img src={noResultFound} alt="no result found" />
@@ -30,6 +29,9 @@ function User() {
             <DataScience groupData_2={generatedGroups_2} />
           </>
         )}
+      </div>
+      <div className="lg:w-1/4 lg:order-1 mb-8 lg:mb-0 sm:order-2 sm:w-full">
+        <MemberList data={data} />
       </div>
     </div>
   )

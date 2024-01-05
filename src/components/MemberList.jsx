@@ -12,7 +12,7 @@ function MemberList({ data }) {
   const totalMember = data.filter((member) => member.name && member.groups)
 
   return (
-    <div className=" w-1/3 lg:w-60 p-5 bg-slate-200 rounded-lg">
+    <div className="  lg:w-60 p-5 bg-slate-200 rounded-lg sm:w-full">
       <div className="flex justify-between">
         <p>Members</p>{" "}
         <p>
