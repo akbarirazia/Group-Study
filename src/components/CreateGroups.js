@@ -1,10 +1,9 @@
-import data from "../Buffer/Data.json"
-export default function makeStudyGroups(studentCount, groupSize) {
+export default function makeStudyGroups(studentCount, groupSize, dept) {
   const students = []
-  for (let i = 1; i <= studentCount; i++) {
-    if (data[i].name && data[i].groups) {
-      students.push(data[i].name)
-    }
+  for (let i = 0; i < studentCount; i++) {
+    console.log(dept[i].name)
+
+    students.push(dept[i].name)
   }
 
   const groups = []

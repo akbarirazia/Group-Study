@@ -1,27 +1,54 @@
 import React, { useState } from "react"
 import makeStudyGroups from "./CreateGroups"
+import data from "../Buffer/Data.json"
 
-function InputBar({ getData }) {
+function InputBar({ getData, getData_2 }) {
   const [numberOfStudents, setNumberOfStudents] = useState(81)
   const [groupSize, setGroupSize] = useState(0)
 
   // const handleChange = (e) => {
   //   setNumberOfStudents(e.target.value)
   // }
+  const fullStack = []
+  data.map((data) => {
+    if (data.groups == "Full Stack Development") {
+      fullStack.push(data)
+    }
+  })
+
+  const dataScience = []
+  data.map((data) => {
+    if (data.groups == "Data Science") {
+      dataScience.push(data)
+    }
+  })
+
   const handleGroupChange = (e) => {
     setGroupSize(e.target.value)
   }
 
   const handleClick = (e) => {
-    const groups = makeStudyGroups(numberOfStudents, groupSize)
-
-    groups.forEach((group, index) => {
-      console.log(`Group ${index + 1}:
-      
-       ${group.join(", ")}`)
-    })
-    getData(groups)
-    console.log(groups)
+    const fullStackGroups = makeStudyGroups(
+      fullStack.length,
+      groupSize,
+      fullStack
+    )
+    const dataScienceGroups = makeStudyGroups(
+      dataScience.length,
+      groupSize,
+      dataScience
+    )
+    getData(fullStackGroups)
+    getData_2(dataScienceGroups)
+    // const fullStackGroups = makeStudyGroups(
+    //   numberOfStudents,
+    //   groupSize,
+    //   fullStack
+    // )
+    console.log()
+    console.log(typeof data)
+    // console.log(typeof dataScience)
+    // console.log(fullStackGroups)
   }
 
   return (
