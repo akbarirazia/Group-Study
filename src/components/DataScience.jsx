@@ -3,7 +3,6 @@ import SingleGroup from "./SingleGroup"
 
 function DataScience({ groupData_2 }) {
   const singleGroups = groupData_2.map((group, index) => {
-    console.log(group)
     return <SingleGroup key={index} data={group} />
   })
   return (

@@ -40,15 +40,6 @@ function InputBar({ getData, getData_2 }) {
     )
     getData(fullStackGroups)
     getData_2(dataScienceGroups)
-    // const fullStackGroups = makeStudyGroups(
-    //   numberOfStudents,
-    //   groupSize,
-    //   fullStack
-    // )
-    console.log()
-    console.log(typeof data)
-    // console.log(typeof dataScience)
-    // console.log(fullStackGroups)
   }
 
   return (

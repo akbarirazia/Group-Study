@@ -1,8 +1,6 @@
 export default function makeStudyGroups(studentCount, groupSize, dept) {
   const students = []
   for (let i = 0; i < studentCount; i++) {
-    console.log(dept[i].name)
-
     students.push(dept[i].name)
   }
 
