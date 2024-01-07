@@ -50,7 +50,7 @@ function InputBar({ getData, getData_2 }) {
             Number of Students:
           </label>
           <input
-            type="text"
+            type="number"
             name="group-num"
             className="w-24 border-2 rounded-md px-2"
             // onChange={handleChange}
@@ -63,7 +63,7 @@ function InputBar({ getData, getData_2 }) {
             Members per group:
           </label>
           <input
-            type="text"
+            type="number"
             name="group-mem"
             className="w-24 border-2 rounded-md px-2"
             onChange={handleGroupChange}
